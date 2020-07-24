@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Academics
 permalink: /acads/
@@ -20,4 +20,4 @@ I will be taking the following courses during my last semester (Spring 2018)
 * Convex Optimization
 * Advanced Information Retrieval
 * Advanced Machine Learning (Probabilistic Graphical Models) 
-* Regression Analysis
+* Regression Analysis -->

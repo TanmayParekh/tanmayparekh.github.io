@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Publications
 permalink: /pubs/
@@ -23,4 +23,4 @@ permalink: /pubs/
 	Stanley Bak, Sergiy Bogomolov, Thomas A Henzinger, Aviral Kumar\\  
 	*(Alphabetically Sorted By Last Name)*\\
 	10th Numerical Software Verification, CAV 2017, Heidelberg, Germany\\
-	[\[Springer Link\]](https://link.springer.com/chapter/10.1007/978-3-319-63501-9_6)
+	[\[Springer Link\]](https://link.springer.com/chapter/10.1007/978-3-319-63501-9_6) -->

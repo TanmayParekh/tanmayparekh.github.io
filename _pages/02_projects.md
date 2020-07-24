@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Research Projects
 permalink: /projects/
@@ -133,4 +133,4 @@ This blog post is based on the our recent paper:
 The code is available [online](https://github.com/aviralkumar2907/BEAR) and a slide-deck explaining the algorithm is available [here](https://sites.google.com/view/bear-off-policyrl). *I would like to thank Sergey Levine for his valuable feedback on the blog post.*  
 
 
-
+ -->
