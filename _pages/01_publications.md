@@ -7,7 +7,7 @@ permalink: /publications/
 * **Politeness transfer: A tag and generate approach**\\
     Aman Madaan\*, Amrith Setlur\*, Tanmay Parekh\*, Barnabas Poczos, Graham Neubig, Yiming Yang, Ruslan Salakhutdinov, Alan W Black, Shrimai Prabhumoye\\
     58th Annual Meeting of the Association for Computational Linguistics (ACL) 2020 (Virtual)\\
-	\[[paper](https://arxiv.org/abs/2004.14257)\] \[[code](https://github.com/tag-and-generate/Politeness-Transfer-A-Tag-and-Generate-Approach)\]
+	\[[paper](https://arxiv.org/abs/2004.14257)\] \[[code](https://github.com/tag-and-generate/Politeness-Transfer-A-Tag-and-Generate-Approach)\] \[[slides](../tag_and_generate.pdf)\]
 
 * **Automatic and Accurate Attribute Extraction for E-Commerce**\\
 	Tanmay Parekh, Sachin Farfade, Nikhil Rasiwasia\\
