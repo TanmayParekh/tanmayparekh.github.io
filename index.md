@@ -32,6 +32,7 @@ In my free time, I like to write poetry ([my blog](https://tanmayparekh.wordpres
     <a href="https://www.axios.com/researchers-develop-polite-ai-c1fa8fdd-6615-4152-80e0-6f1fd649e315.html">Axios</a>
 </td></tr>
 <tr><td><b>Jul 2020:</b></td><td>Presented our work on politeness transfer at ACL '20 [<a href="https://arxiv.org/abs/2004.14257">paper</a>]</td></tr>
+<tr><td><b>May 2020:</b></td><td>Reached the semifinals of the <a href="https://developer.amazon.com/alexaprize">Alexa SocialBot Challenge 2020</a></td></tr>
 <tr><td><b>Aug 2019:</b></td><td>Joined the MLT program at LTI, CMU for Fall '19</td></tr>
 <tr><td><b>Mar 2019:</b></td><td>Our work on Named Entity Recognition in partially and noisy labelled setting got accepted at AMLC '19</td></tr>
 <tr><td><b>Nov 2018:</b></td><td>Presented our work on dual rnns to improve code-switched language models at EMNLP '18 [<a href="https://arxiv.org/abs/1809.01962">paper</a>]</td></tr>
