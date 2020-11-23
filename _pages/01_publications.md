@@ -4,6 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 
+* **Understanding Linguistic Accommodation in Human-Machine Code-Switched Dialogues**\\
+    Tanmay Parekh, Emily P Ahn, Yulia Tsvetkov, Alan W Black\\
+    Proceedings of The SIGNLL Conference on Computational Natural Language Learning (CoNLL) 2020 (Virtual)\\
+        \[[paper](https://www.aclweb.org/anthology/2020.conll-1.46/)] \[[data](https://github.com/TanmayParekh/commonDost)] \[[slides](../linguistic_accommodation.pdf)]
+
 * **Politeness transfer: A tag and generate approach**\\
     Aman Madaan\*, Amrith Setlur\*, Tanmay Parekh\*, Barnabas Poczos, Graham Neubig, Yiming Yang, Ruslan Salakhutdinov, Alan W Black, Shrimai Prabhumoye\\
     58th Annual Meeting of the Association for Computational Linguistics (ACL) 2020 (Virtual)\\

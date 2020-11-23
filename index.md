@@ -22,6 +22,7 @@ In my free time, I like to write poetry ([my blog](https://tanmayparekh.wordpres
 <table>
 <col width="100px">
 <col width="650px">
+<tr><td><b>Nov 2020:</b></td><td>Presented our work on linguistic accommodation for code-switched dialogues at CoNLL '20 [<a href="https://www.aclweb.org/anthology/2020.conll-1.46/">paper</a>]</td></tr>
 <tr><td><b>Aug 2020:</b></td><td>Represented CMU at the Alexa Socialbot Challenge 3 and reached the Semifinals.</td></tr>
 <tr><td><b>Jul 2020:</b></td><td>Our work on politeness transfer got featured in
     <a href="https://www.cs.cmu.edu/news/could-your-computer-please-be-more-polite-thank-you">SCS CMU News</a>,
