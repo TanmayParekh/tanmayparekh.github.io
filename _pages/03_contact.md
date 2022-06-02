@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 You can mail me at:
-* [tparekh@andrew.cmu.edu](mailto:tparekh@andrew.cmu.edu)
+* [tparekh@cs.ucla.edu](mailto:tparekh@cs.ucla.edu)
 * [tparekh97@gmail.edu](mailto:tparekh97@gmail.edu)
 
 You can connect with me on social media too:
