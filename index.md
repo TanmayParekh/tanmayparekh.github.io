@@ -30,7 +30,7 @@ In my free time, I like to write poetry ([my blog](https://tanmayparekh.wordpres
 <tr><td><b>Jun 2022:</b></td><td>Started my summer internship at <a href="https://www.amazon.jobs/en/landing_pages/india-machine-learning">Amazon Alexa</a> as an Applied Scientist Intern</td></tr>
 <tr><td><b>May 2022:</b></td><td>Arxived our work on Generalizability Benchmarking Dataset [<a href="https://arxiv.org/abs/2205.12505">paper</a>]</td></tr>
 <tr><td><b>Apr 2022:</b></td><td>Cleared the Written Qualifying Exam (WQE) towards my PhD</td></tr>
-<tr><td><b>Oct 2021:</b></td><td>Granted the **UCLA PhD Fellowship** for the first year</td></tr>
+<tr><td><b>Oct 2021:</b></td><td>Granted the <b>UCLA PhD Fellowship</b> for the first year</td></tr>
 <tr><td><b>Sept 2021:</b></td><td>Started my PhD in Computer Science at UCLA</td></tr>
 <tr><td><b>Aug 2021:</b></td><td>Graduated as a Masters student in Language Technologies from CMU</td></tr>
 <tr><td><b>Nov 2020:</b></td><td>Presented our work on linguistic accommodation for code-switched dialogues at CoNLL '20 [<a href="https://www.aclweb.org/anthology/2020.conll-1.46/">paper</a>]</td></tr>
