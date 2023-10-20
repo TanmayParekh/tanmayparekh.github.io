@@ -6,7 +6,7 @@ permalink: /publications/
 
 * **Contextual Label Projection for Cross-Lingual Structure Extraction**\\
 	Tanmay Parekh, I-Hung Hsu, Kuan-Hao Huang, Kai-Wei Chang, Nanyun Peng\\
-	Arxiv \\
+	Under review \\
 	\[[paper](https://arxiv.org/abs/2309.08943)\]
 
 <!-- * **Event Detection from Social Media for Epidemic Preparedness**\\

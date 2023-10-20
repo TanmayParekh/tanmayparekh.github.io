@@ -23,6 +23,7 @@ In my free time, I like to write poetry ([my blog](https://tanmayparekh.wordpres
 <col width="100px">
 <col width="650px">
 
+<tr><td><b>Oct 2023:</b></td><td>Serving as the Program Chair for the <a href="https://socalnlp.github.io/symp23/index.html">Socal NLP Symposium 2023</a> </td></tr>
 <tr><td><b>Sep 2023:</b></td><td>Arxived our work on Contextual Label Projection for Cross-lingual Structure Extraction [<a href="https://arxiv.org/abs/2309.08943">paper</a>]</td></tr>
 <tr><td><b>Jul 2023:</b></td><td>Presented our work on Generalizability Benchmarking Dataset for Event Argument Extraction at ACL 2023 [<a href="https://aclanthology.org/2023.acl-long.203/">paper</a>]</td></tr>
 <tr><td><b>Jun 2023:</b></td><td>Completed Teaching Assistantship for 3 courses - Machine Learning, Natural Language Processing (undergrad), Natural Language Processing (graduate)</td></tr>
