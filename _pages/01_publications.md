@@ -4,14 +4,14 @@ title: Publications
 permalink: /publications/
 ---
 
-* **A Reevaluation of Event Extraction: Past, Present, and Future Challenges**\\
+* **TEXTEE: Benchmark, Reevaluation, Reflections, and Future Challenges in Event Extraction**\\
 	Kuan-Hao Huang, I-Hung Hsu, Tanmay Parekh, Zhiyu Xie, Zixuan Zhang, Premkumar Natarajan, Kai-Wei Chang, Nanyun Peng, Heng Ji\\
-	Under review at Dec ARR '23\\
+	Under review at Feb ARR 2023\\
 	\[[paper](https://arxiv.org/pdf/2311.09562.pdf)\]
 
 * **Contextual Label Projection for Cross-Lingual Structure Extraction**\\
 	Tanmay Parekh, I-Hung Hsu, Kuan-Hao Huang, Kai-Wei Chang, Nanyun Peng\\
-	Under review at Oct ARR '23\\
+	Under submission at NAACL 2024\\
 	\[[paper](https://arxiv.org/abs/2309.08943)\]
 
 <!-- * **Event Detection from Social Media for Epidemic Preparedness**\\

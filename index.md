@@ -6,7 +6,7 @@ layout: default
 ---
 ![abc](dp.jpg){:style="float: left;margin-right: 15px;margin-top: 7px; margin-left: 7px;height: 200px;border: 5"}
 
-Hey there! I am a third year PhD student in Computer Science at [University of California, Los Angeles](https://samueli.ucla.edu/). I am being adviced by [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/) and [Prof. Nanyun Peng](https://vnpeng.net/). My research interests include multilinguality and generation with special focus on the task of Event Extraction.
+Hey there! I am a third year PhD student in Computer Science at [University of California, Los Angeles](https://samueli.ucla.edu/). I am being adviced by [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/) and [Prof. Nanyun Peng](https://vnpeng.net/). My research focuses on improving the utilization of Large Language Models (LLMs) for applications in Information Extraction (specifically Event Extraction) across various languages and domains.
 
 I graduated as a Masters student from [Language Technologies Institute (LTI)](https://www.lti.cs.cmu.edu/) at Carnegie Mellon University. There, I was advised by [Prof. Alan W. Black](http://www.cs.cmu.edu/~awb/) and worked on topics like style transfer and code-switched dialogue systems. Previously, I received my undergraduate degree -- Bachelor of Technology in Computer Science -- from [IIT Bombday](https://www.cse.iitb.ac.in/). As part of my thesis, I worked on Language Modelling for code-switched language under the guidance of [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/).
 
@@ -24,11 +24,12 @@ In my free time, I like to write poetry ([my blog](https://tanmayparekh.wordpres
 <col width="650px">
 
 <tr><td><b>Nov 2023:</b></td><td>Arxived our work on Reevaluation of Event Extraction: Past, Present, and Future Challenges [<a href="https://arxiv.org/pdf/2311.09562.pdf">paper</a>]</td></tr>
-<tr><td><b>Oct 2023:</b></td><td>Serving as the <b>Program Chair<b> for the <a href="https://socalnlp.github.io/symp23/index.html">Socal NLP Symposium 2023</a> </td></tr>
+<tr><td><b>Oct 2023:</b></td><td>Serving as the <b>Program Chair</b> for the <a href="https://socalnlp.github.io/symp23/index.html">Socal NLP Symposium 2023</a> </td></tr>
 <tr><td><b>Sep 2023:</b></td><td>Arxived our work on Contextual Label Projection for Cross-lingual Structure Extraction [<a href="https://arxiv.org/abs/2309.08943">paper</a>]</td></tr>
 <tr><td><b>Jul 2023:</b></td><td>Presented our work on Generalizability Benchmarking Dataset for Event Argument Extraction at ACL 2023 [<a href="https://aclanthology.org/2023.acl-long.203/">paper</a>]</td></tr>
 <tr><td><b>Jun 2023:</b></td><td>Completed Teaching Assistantship for 3 courses - Machine Learning, Natural Language Processing (undergrad), Natural Language Processing (graduate)</td></tr>
 <tr><td><b>May 2023:</b></td><td>Our work on Generalizability Benchmarking Dataset for Event Argument Extraction accepted at ACL 2023 [<a href="https://aclanthology.org/2023.acl-long.203/">paper</a>]</td></tr>
+<tr><td><b>May 2023:</b></td><td>Gave a guest lecture for the CS 263 (Natural Language Processing) class at UCLA</td></tr>
 <tr><td><b>Jun 2022:</b></td><td>Started my summer internship at <a href="https://www.amazon.jobs/en/landing_pages/india-machine-learning">Amazon Alexa</a> as an Applied Scientist Intern</td></tr>
 <tr><td><b>May 2022:</b></td><td>Arxived our work on Generalizability Benchmarking Dataset [<a href="https://arxiv.org/abs/2205.12505">paper</a>]</td></tr>
 <tr><td><b>Apr 2022:</b></td><td>Cleared the Written Qualifying Exam (WQE) towards my PhD</td></tr>
