@@ -11,12 +11,12 @@ permalink: /publications/
 
 * **Contextual Label Projection for Cross-Lingual Structure Extraction**\\
 	Tanmay Parekh, I-Hung Hsu, Kuan-Hao Huang, Kai-Wei Chang, Nanyun Peng\\
-	Under submission at NAACL 2024\\
+	Accepted at NAACL 2024\\
 	\[[paper](https://arxiv.org/abs/2309.08943)\]
 
-<!-- * **Event Detection from Social Media for Epidemic Preparedness**\\
+* **Event Detection from Social Media for Epidemic Preparedness**\\
 	Tanmay Parekh, Alex Mac, Jiarui Yu, Yuxoan Dong, Syed Shahriar, Bonnie Liu, Eric Yang, Kuan-Hao Huang, Nanyun Peng, Wei Wang, Kai-Wei Chang\\
-	Under review \\ -->
+	Accepted at NAACL 2024 \\
 
 * **GENEVA: Pushing the Limit of Generalizability for Event Argument Extraction with 100+ Event Types**\\
 	Tanmay Parekh, I-Hung Hsu, Kuan-Hao Huang, Kai-Wei Chang, Nanyun Peng\\
