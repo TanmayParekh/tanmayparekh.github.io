@@ -4,19 +4,24 @@ title: Publications
 permalink: /publications/
 ---
 
+* **SPEED++: A Multilingual Event Extraction Framework for Epidemic Prediction and Preparedness**\\
+	Tanmay Parekh, Jeffrey Kwan, Jiarui Yu, Sparsh Johri, Hyosang Ahn, Sreya Muppalla, Kai-Wei Chang, Wei Wang, Nanyun Peng\\
+	Under review at ARR June 2024 \\
+
 * **TEXTEE: Benchmark, Reevaluation, Reflections, and Future Challenges in Event Extraction**\\
 	Kuan-Hao Huang, I-Hung Hsu, Tanmay Parekh, Zhiyu Xie, Zixuan Zhang, Premkumar Natarajan, Kai-Wei Chang, Nanyun Peng, Heng Ji\\
-	Under review at Feb ARR 2023\\
-	\[[paper](https://arxiv.org/pdf/2311.09562.pdf)\]
+	Accepted at ACL Findings 2024\\
+	\[[paper](https://arxiv.org/pdf/2311.09562.pdf)\] \[[code](https://github.com/ej0cl6/TextEE/)\]
 
 * **Contextual Label Projection for Cross-Lingual Structure Extraction**\\
 	Tanmay Parekh, I-Hung Hsu, Kuan-Hao Huang, Kai-Wei Chang, Nanyun Peng\\
 	Accepted at NAACL 2024\\
-	\[[paper](https://arxiv.org/abs/2309.08943)\]
+	\[[paper](https://arxiv.org/abs/2309.08943)\] \[[code](https://github.com/PlusLabNLP/CLaP)\]
 
 * **Event Detection from Social Media for Epidemic Preparedness**\\
 	Tanmay Parekh, Alex Mac, Jiarui Yu, Yuxoan Dong, Syed Shahriar, Bonnie Liu, Eric Yang, Kuan-Hao Huang, Nanyun Peng, Wei Wang, Kai-Wei Chang\\
 	Accepted at NAACL 2024 \\
+	\[[paper](https://arxiv.org/pdf/2404.01679)\] \[[code](https://github.com/PlusLabNLP/SPEED)\]
 
 * **GENEVA: Pushing the Limit of Generalizability for Event Argument Extraction with 100+ Event Types**\\
 	Tanmay Parekh, I-Hung Hsu, Kuan-Hao Huang, Kai-Wei Chang, Nanyun Peng\\
