@@ -4,9 +4,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
-![abc](dp.jpg){:style="float: left;margin-right: 15px;margin-top: 7px; margin-left: 7px;height: 200px;border: 5"}
+![abc](vertical-ucla-pic.jpeg){:style="float: left;margin-right: 15px;margin-top: 7px; margin-left: 7px;height: 200px;border: 5"}
 
-Hey there! I am a fouth year PhD student in Computer Science at [University of California, Los Angeles](https://samueli.ucla.edu/). I am being adviced by [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/) and [Prof. Nanyun Peng](https://vnpeng.net/). My research focuses on improving the utilization of Large Language Models (LLMs) for applications in Information Extraction (specifically Event Extraction) across various languages and domains.
+Hey there! I am a fouth year PhD student in Computer Science at [University of California, Los Angeles](https://samueli.ucla.edu/). I am being adviced by [Prof. Nanyun Peng](https://vnpeng.net/) and [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). My research focuses on improving the utilization of Large Language Models (LLMs) for applications in Information Extraction (specifically Event Extraction) across various languages and domains.
 
 I graduated as a Masters student from [Language Technologies Institute (LTI)](https://www.lti.cs.cmu.edu/) at Carnegie Mellon University. There, I was advised by [Prof. Alan W. Black](http://www.cs.cmu.edu/~awb/) and worked on topics like style transfer and code-switched dialogue systems. Previously, I received my undergraduate degree -- Bachelor of Technology in Computer Science -- from [IIT Bombday](https://www.cse.iitb.ac.in/). As part of my thesis, I worked on Language Modelling for code-switched language under the guidance of [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/).
 
