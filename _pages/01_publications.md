@@ -5,8 +5,14 @@ permalink: /publications/
 ---
 
 * **SPEED++: A Multilingual Event Extraction Framework for Epidemic Prediction and Preparedness**\\
-	Tanmay Parekh, Jeffrey Kwan, Jiarui Yu, Sparsh Johri, Hyosang Ahn, Sreya Muppalla, Kai-Wei Chang, Wei Wang, Nanyun Peng\\
-	Under review at ARR June 2024 \\
+	Tanmay Parekh, Jeffrey Kwan, Jiarui Yu, Sparsh Johri, Hyosang Ahn, Sreya Muppalla, Kai-Wei Chang, Wei Wang, Nanyun Peng \\
+	Accepted at EMNLP 2024 \\
+	\[[code](https://github.com/PlusLabNLP/SPEED-plus-plus)\]
+
+* **QUDSELECT: Selective Decoding for Questions Under Discussion Parsing**\\
+	Ashima Suvarna, Xiao Liu, Tanmay Parekh, Kai-Wei Chang, Nanyun Peng \\
+	Accepted at EMNLP 2024 \\
+	\[[paper](https://arxiv.org/abs/2408.01046)\]
 
 * **TEXTEE: Benchmark, Reevaluation, Reflections, and Future Challenges in Event Extraction**\\
 	Kuan-Hao Huang, I-Hung Hsu, Tanmay Parekh, Zhiyu Xie, Zixuan Zhang, Premkumar Natarajan, Kai-Wei Chang, Nanyun Peng, Heng Ji\\

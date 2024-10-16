@@ -6,9 +6,9 @@ layout: default
 ---
 ![abc](vertical-ucla-pic.jpeg){:style="float: left;margin-right: 15px;margin-top: 7px; margin-left: 7px;height: 200px;border: 5"}
 
-Hey there! I am a fouth year PhD student in Computer Science at [University of California, Los Angeles](https://samueli.ucla.edu/). I am being adviced by [Prof. Nanyun Peng](https://vnpeng.net/) and [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). My research focuses on improving the utilization of Large Language Models (LLMs) for applications in Information Extraction (specifically Event Extraction) across various languages and domains.
+Hey there! I am a fourth-year PhD student in Computer Science at the [University of California, Los Angeles](https://samueli.ucla.edu/). I am being adviced by [Prof. Nanyun Peng](https://vnpeng.net/) and [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). My research focuses on improving the planning and reasoning capabilities of Large Language Models (LLMs) for applications in Information Extraction (specifically Event Extraction). I also specialize in building generalized frameworks that perform well across various languages and domains.
 
-I graduated as a Masters student from [Language Technologies Institute (LTI)](https://www.lti.cs.cmu.edu/) at Carnegie Mellon University. There, I was advised by [Prof. Alan W. Black](http://www.cs.cmu.edu/~awb/) and worked on topics like style transfer and code-switched dialogue systems. Previously, I received my undergraduate degree -- Bachelor of Technology in Computer Science -- from [IIT Bombday](https://www.cse.iitb.ac.in/). As part of my thesis, I worked on Language Modelling for code-switched language under the guidance of [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/).
+I graduated as a Masters student (MLT) from [Language Technologies Institute (LTI)](https://www.lti.cs.cmu.edu/) at Carnegie Mellon University. There, I was advised by [Prof. Alan W. Black](http://www.cs.cmu.edu/~awb/) and worked on topics like style transfer and code-switched dialogue systems. Previously, I received my undergraduate degree -- Bachelor of Technology in Computer Science -- from [IIT Bombday](https://www.cse.iitb.ac.in/). As part of my thesis, I worked on Language Modelling for code-switched language under the guidance of [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/).
 
 As part of PhD internships, I have interned at [Meta Gen AI](https://ai.meta.com/meta-ai/) (Summer 2024) and [Amazon Lab 126](https://amazon.jobs/en/teams/lab126/) (Summer 2022). Before, I worked full-time for a year in the Machine Learning team at [Amazon](https://www.amazon.jobs/en/landing_pages/india-machine-learning). I have previously interned at [Goldman Sachs](https://www.goldmansachs.com/worldwide/india/) (Summer 2017), [Philips](https://www.philips.co.in/a-w/about-philips/philips-innovation-center.html) (Summer 2016), [Edelweiss](https://www.edelweissfin.com/) (Winter 2015) and [Sportz Interactive](https://www.sportzinteractive.net/) (Summer 2015).
 
@@ -23,8 +23,12 @@ In my free time, I like to write poetry ([my blog](https://tanmayparekh.wordpres
 <col width="100px">
 <col width="650px">
 
+<tr><td><b>Oct 2024:</b></td><td>Awarded the <a href="https://www.bloomberg.com/company/values/tech-at-bloomberg/data-science/academic-engagement-programs/data-science-ph-d-fellowship/">Bloomberg Data Science Ph.D. Fellowship</a> for the academic year 2025-2026</td></tr>
+<tr><td><b>Sep 2024:</b></td><td>Completed my internship in the <a href="https://ai.meta.com/meta-ai/">Gen AI team at Meta</a></td></tr>
+<tr><td><b>Sep 2024:</b></td><td>Two of our works on <a href="https://arxiv.org/pdf/2408.01046">QUDSelect</a> and SPEED++ got accepted at EMNLP 2024</td></tr>
+<tr><td><b>Jul 2024:</b></td><td>Arxived our work on QUDSELECT: Selective Decoding for Questions Under Discussion Parsing [<a href="https://arxiv.org/pdf/2408.01046">paper</a>]</td></tr>
 <tr><td><b>Jun 2024:</b></td><td>Started my internship in the <a href="https://ai.meta.com/meta-ai/">Gen AI team at Meta</a></td></tr>
-<tr><td><b>Jun 2024:</b></td><td>Gave an poster presentation for <a href="https://arxiv.org/abs/2309.08943">CLAP</a> at NAACL 2024</td></tr>
+<tr><td><b>Jun 2024:</b></td><td>Gave a poster presentation for <a href="https://arxiv.org/abs/2309.08943">CLAP</a> at NAACL 2024</td></tr>
 <tr><td><b>Jun 2024:</b></td><td>Gave an oral presentation for <a href="https://arxiv.org/pdf/2404.01679">SPEED</a> at NAACL 2024</td></tr>
 <tr><td><b>Jun 2024:</b></td><td>Awarded the <a href="https://www.sciencehub.ucla.edu/2024-amazon-fellows/">Amazon Fellowship</a> for the academic year 2024-2025</td></tr>
 <tr><td><b>May 2024:</b></td><td>Our work on <a href="https://arxiv.org/pdf/2311.09562">TextEE</a> got accepted at ACL Findings 2024</td></tr>
