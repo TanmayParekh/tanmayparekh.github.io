@@ -12,7 +12,7 @@ I graduated as a Masters student (MLT) from [Language Technologies Institute (LT
 
 As part of PhD internships, I have interned at [Meta Gen AI](https://ai.meta.com/meta-ai/) (Summer 2024) and [Amazon Lab 126](https://amazon.jobs/en/teams/lab126/) (Summer 2022). Before, I worked full-time for a year in the Machine Learning team at [Amazon](https://www.amazon.jobs/en/landing_pages/india-machine-learning). I have previously interned at [Goldman Sachs](https://www.goldmansachs.com/worldwide/india/) (Summer 2017), [Philips](https://www.philips.co.in/a-w/about-philips/philips-innovation-center.html) (Summer 2016), [Edelweiss](https://www.edelweissfin.com/) (Winter 2015) and [Sportz Interactive](https://www.sportzinteractive.net/) (Summer 2015).
 
-In my free time, I like to write poetry ([my blog](https://tanmayparekh.wordpress.com)) and paint. I love playing soccer, basketball, and tennis too.
+In my free time, I like writing poetry, painting, and watching sports. I love playing soccer, basketball, and tennis too.
 
 ---
 
