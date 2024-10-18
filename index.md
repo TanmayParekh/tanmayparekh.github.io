@@ -23,6 +23,7 @@ In my free time, I like writing poetry, painting, and watching sports. I love pl
 <col width="100px">
 <col width="650px">
 
+<tr><td><b>Oct 2024:</b></td><td>Featured in <a href="https://www.cs.ucla.edu/ucla-ph-d-tanmay-parekh-awarded-the-bloomberg-data-science-fellowship/">UCLA News</a> for the Bloomberg Data Science Ph.D. Fellowship.</td></tr>
 <tr><td><b>Oct 2024:</b></td><td>Awarded the <a href="https://www.bloomberg.com/company/values/tech-at-bloomberg/data-science/academic-engagement-programs/data-science-ph-d-fellowship/">Bloomberg Data Science Ph.D. Fellowship</a> for the academic year 2025-2026</td></tr>
 <tr><td><b>Sep 2024:</b></td><td>Completed my internship in the <a href="https://ai.meta.com/meta-ai/">Gen AI team at Meta</a></td></tr>
 <tr><td><b>Sep 2024:</b></td><td>Two of our works on <a href="https://arxiv.org/pdf/2408.01046">QUDSelect</a> and SPEED++ got accepted at EMNLP 2024</td></tr>
