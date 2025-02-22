@@ -6,7 +6,7 @@ layout: default
 ---
 ![abc](vertical-ucla-pic.jpeg){:style="float: left;margin-right: 15px;margin-top: 7px; margin-left: 7px;height: 200px;border: 5"}
 
-Hey there! I am a fourth-year PhD student in Computer Science at the [University of California, Los Angeles](https://samueli.ucla.edu/). I am being adviced by [Prof. Nanyun Peng](https://vnpeng.net/) and [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). My research focuses on improving the planning and reasoning capabilities of Large Language Models (LLMs) for applications in Information Extraction (specifically Event Extraction). I also specialize in building generalized frameworks that perform well across various languages and domains.
+Hey there! I am a fourth-year PhD student in Computer Science at the [University of California, Los Angeles](https://samueli.ucla.edu/). I am being adviced by [Prof. Nanyun Peng](https://vnpeng.net/) and [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). I'm a recipient of the [Amazon Science Hub Fellowship](https://www.sciencehub.ucla.edu/2024-amazon-fellows/) and the [Bloomberg Data Science Ph.D. Fellowship](https://www.bloomberg.com/company/values/tech-at-bloomberg/data-science/academic-engagement-programs/data-science-ph-d-fellowship/). My research focuses on improving the planning and reasoning capabilities of Large Language Models (LLMs) for applications in Information Extraction (specifically Event Extraction). I also specialize in building generalized frameworks that perform well across various languages and domains.
 
 I graduated as a Masters student (MLT) from [Language Technologies Institute (LTI)](https://www.lti.cs.cmu.edu/) at Carnegie Mellon University. There, I was advised by [Prof. Alan W. Black](http://www.cs.cmu.edu/~awb/) and worked on topics like style transfer and code-switched dialogue systems. Previously, I received my undergraduate degree -- Bachelor of Technology in Computer Science -- from [IIT Bombday](https://www.cse.iitb.ac.in/). As part of my thesis, I worked on Language Modelling for code-switched language under the guidance of [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/).
 
@@ -23,10 +23,14 @@ In my free time, I like writing poetry, painting, and watching sports. I love pl
 <col width="100px">
 <col width="650px">
 
+<!-- <tr><td><b>Feb 2025:</b></td><td>Arxived our work on FIG: Forward-Inverse Generation for Low-Resouce Domain-specific Event Detection [<a href="">paper</a>]</td></tr> -->
+<tr><td><b>Jan 2025:</b></td><td>Our work on <a href="https://arxiv.org/pdf/2410.23511">DyPlan</a> got accepted at NAACL Findings 2025</td></tr>
+<tr><td><b>Nov 2024:</b></td><td>Presented our works <a href="https://aclanthology.org/2024.emnlp-main.720.pdf">SPEED++</a> and <a href="https://aclanthology.org/2024.emnlp-main.76.pdf">QUDSelect</a> at EMNLP 2024</td></tr>
+<tr><td><b>Oct 2024:</b></td><td>Arxived my Meta internship work on Dynamic Strategy Planning for Efficient Question Answering with Large Language Models [<a href="https://arxiv.org/pdf/2410.23511">paper</a>]</td></tr>
 <tr><td><b>Oct 2024:</b></td><td>Featured in <a href="https://www.cs.ucla.edu/ucla-ph-d-tanmay-parekh-awarded-the-bloomberg-data-science-fellowship/">UCLA News</a> for the Bloomberg Data Science Ph.D. Fellowship.</td></tr>
 <tr><td><b>Oct 2024:</b></td><td>Awarded the <a href="https://www.bloomberg.com/company/values/tech-at-bloomberg/data-science/academic-engagement-programs/data-science-ph-d-fellowship/">Bloomberg Data Science Ph.D. Fellowship</a> for the academic year 2025-2026</td></tr>
 <tr><td><b>Sep 2024:</b></td><td>Completed my internship in the <a href="https://ai.meta.com/meta-ai/">Gen AI team at Meta</a></td></tr>
-<tr><td><b>Sep 2024:</b></td><td>Two of our works on <a href="https://arxiv.org/pdf/2408.01046">QUDSelect</a> and SPEED++ got accepted at EMNLP 2024</td></tr>
+<tr><td><b>Sep 2024:</b></td><td>Two of our works on <a href="https://arxiv.org/pdf/2408.01046">QUDSelect</a> and <a href="https://arxiv.org/pdf/2410.18393">SPEED++</a> got accepted at EMNLP 2024</td></tr>
 <tr><td><b>Jul 2024:</b></td><td>Arxived our work on QUDSELECT: Selective Decoding for Questions Under Discussion Parsing [<a href="https://arxiv.org/pdf/2408.01046">paper</a>]</td></tr>
 <tr><td><b>Jun 2024:</b></td><td>Started my internship in the <a href="https://ai.meta.com/meta-ai/">Gen AI team at Meta</a></td></tr>
 <tr><td><b>Jun 2024:</b></td><td>Gave a poster presentation for <a href="https://arxiv.org/abs/2309.08943">CLAP</a> at NAACL 2024</td></tr>

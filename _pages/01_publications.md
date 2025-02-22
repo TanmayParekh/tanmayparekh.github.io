@@ -4,15 +4,20 @@ title: Publications
 permalink: /publications/
 ---
 
+* **Dynamic Strategy Planning for Efficient Question Answering with Large Language Models**\\
+	Tanmay Parekh, Pradyot Prakash, Alexander Radovic, Akshay Shekher, Denis Savenkov \\
+	Accepted at NAACL Findings 2025 \\
+	\[[paper](https://arxiv.org/pdf/2410.23511)\]
+
 * **SPEED++: A Multilingual Event Extraction Framework for Epidemic Prediction and Preparedness**\\
 	Tanmay Parekh, Jeffrey Kwan, Jiarui Yu, Sparsh Johri, Hyosang Ahn, Sreya Muppalla, Kai-Wei Chang, Wei Wang, Nanyun Peng \\
 	Accepted at EMNLP 2024 \\
-	\[[code](https://github.com/PlusLabNLP/SPEED-plus-plus)\]
+	\[[paper](https://aclanthology.org/2024.emnlp-main.720.pdf)\] \[[code](https://github.com/PlusLabNLP/SPEED-plus-plus)\]
 
 * **QUDSELECT: Selective Decoding for Questions Under Discussion Parsing**\\
 	Ashima Suvarna, Xiao Liu, Tanmay Parekh, Kai-Wei Chang, Nanyun Peng \\
 	Accepted at EMNLP 2024 \\
-	\[[paper](https://arxiv.org/abs/2408.01046)\]
+	\[[paper](https://aclanthology.org/2024.emnlp-main.76.pdf)\] \[[code](https://github.com/asuvarna31/qudselect)\]
 
 * **TEXTEE: Benchmark, Reevaluation, Reflections, and Future Challenges in Event Extraction**\\
 	Kuan-Hao Huang, I-Hung Hsu, Tanmay Parekh, Zhiyu Xie, Zixuan Zhang, Premkumar Natarajan, Kai-Wei Chang, Nanyun Peng, Heng Ji\\
