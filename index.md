@@ -6,13 +6,14 @@ layout: default
 ---
 ![abc](vertical-ucla-pic.jpeg){:style="float: left;margin-right: 15px;margin-top: 7px; margin-left: 7px;height: 200px;border: 5"}
 
-Hey there! I am a fourth-year PhD student in Computer Science at the [University of California, Los Angeles](https://samueli.ucla.edu/). I am being adviced by [Prof. Nanyun Peng](https://vnpeng.net/) and [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). I'm a recipient of the [Amazon Science Hub Fellowship](https://www.sciencehub.ucla.edu/2024-amazon-fellows/) and the [Bloomberg Data Science Ph.D. Fellowship](https://www.bloomberg.com/company/values/tech-at-bloomberg/data-science/academic-engagement-programs/data-science-ph-d-fellowship/). My research focuses on improving the planning and reasoning capabilities of Large Language Models (LLMs) for applications in Information Extraction (specifically Event Extraction). I also specialize in building generalized frameworks that perform well across various languages and domains.
+Hey there! I am on the **job market looking for active roles in Gen AI teams**. Currently, I am a final year PhD student in Computer Science at the [University of California, Los Angeles](https://samueli.ucla.edu/) working on **Natural Language Processing**. I am being adviced by [Prof. Nanyun Peng](https://vnpeng.net/) and [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). I've been awarded the [Bloomberg Data Science Ph.D. Fellowship](https://www.bloomberg.com/company/values/tech-at-bloomberg/data-science/academic-engagement-programs/data-science-ph-d-fellowship/), [Amazon Science Hub Fellowship](https://www.sciencehub.ucla.edu/2024-amazon-fellows/), and **NAACL 2024 Best Paper Nomination**.
+
+My research focuses on improving the **planning and reasoning capabilities** of Large Language Models (LLMs), with focus on **long-context understanding and efficiency**. I’ve worked on integrating **System-2-inspired architectures**, introducing inductive biases, and developing **data-centric fine-tuning strategies** to improve LLM planning and generalization. I've applied these methods and frameworks in my works across a wide rande of tasks spanning Information Extraction (IE), Question Answering (QA) and Code Generation; diverse domains like biomedical, social media, news; and multilingually spanning 40+ languages.
 
 I graduated as a Masters student (MLT) from [Language Technologies Institute (LTI)](https://www.lti.cs.cmu.edu/) at Carnegie Mellon University. There, I was advised by [Prof. Alan W. Black](http://www.cs.cmu.edu/~awb/) and worked on topics like style transfer and code-switched dialogue systems. Previously, I received my undergraduate degree -- Bachelor of Technology in Computer Science -- from [IIT Bombday](https://www.cse.iitb.ac.in/). As part of my thesis, I worked on Language Modelling for code-switched language under the guidance of [Prof. Preethi Jyothi](https://www.cse.iitb.ac.in/~pjyothi/).
 
-As part of PhD internships, I have interned at [Meta Gen AI](https://ai.meta.com/meta-ai/) (Summer 2024) and [Amazon Lab 126](https://amazon.jobs/en/teams/lab126/) (Summer 2022). Before, I worked full-time for a year in the Machine Learning team at [Amazon](https://www.amazon.jobs/en/landing_pages/india-machine-learning). I have previously interned at [Goldman Sachs](https://www.goldmansachs.com/worldwide/india/) (Summer 2017), [Philips](https://www.philips.co.in/a-w/about-philips/philips-innovation-center.html) (Summer 2016), [Edelweiss](https://www.edelweissfin.com/) (Winter 2015) and [Sportz Interactive](https://www.sportzinteractive.net/) (Summer 2015).
-
-In my free time, I like writing poetry, painting, and watching sports. I love playing soccer, basketball, and tennis too.
+In Summer 2025, I'm interning at [Bloomberg AI](https://www.bloomberg.com/professional/solutions/ai/) as part of my Bloomberg Data Science Internship. Previously, I have interned at [Meta Gen AI](https://ai.meta.com/meta-ai/) (Summer 2024) and [Amazon Lab 126](https://amazon.jobs/en/teams/lab126/) (Summer 2022). Before, I worked full-time for a year in the Machine Learning team at [Amazon](https://www.amazon.jobs/en/landing_pages/india-machine-learning).
+<!-- I have previously interned at [Goldman Sachs](https://www.goldmansachs.com/worldwide/india/) (Summer 2017), [Philips](https://www.philips.co.in/a-w/about-philips/philips-innovation-center.html) (Summer 2016), [Edelweiss](https://www.edelweissfin.com/) (Winter 2015) and [Sportz Interactive](https://www.sportzinteractive.net/) (Summer 2015). -->
 
 ---
 
@@ -23,9 +24,15 @@ In my free time, I like writing poetry, painting, and watching sports. I love pl
 <col width="100px">
 <col width="650px">
 
-<!-- <tr><td><b>Feb 2025:</b></td><td>Arxived our work on FIG: Forward-Inverse Generation for Low-Resouce Domain-specific Event Detection [<a href="">paper</a>]</td></tr> -->
+<tr><td><b>Jun 2025:</b></td><td>Started my internship in the Code Generation team at <a href="https://www.bloomberg.com/professional/solutions/ai/">Bloomberg AI</a></td></tr>
+<tr><td><b>Jun 2025:</b></td><td>Arxived our work on DiCoRe: Enhancing Zero-shot Event Detection via Divergent-Convergent LLM Reasoning [<a href="https://arxiv.org/pdf/2506.05128">paper</a>]</td></tr>
+<tr><td><b>Jun 2025:</b></td><td>Updated our work on FIG to SNaRe: Domain-aware Data Generation for
+Low-Resource Event Detection [<a href="https://arxiv.org/pdf/2502.17394v2">paper</a>]</td></tr>
+<tr><td><b>Apr 2025:</b></td><td>Presented our work <a href="https://aclanthology.org/2025.findings-naacl.336.pdf">DyPlan</a> for efficient planning at NAACL 2025</td></tr>
+<tr><td><b>Feb 2025:</b></td><td>Arxived our work on FIG: Forward-Inverse Generation for Low-Resouce Domain-specific Event Detection [<a href="https://arxiv.org/pdf/2502.17394">paper</a>]</td></tr>
 <tr><td><b>Jan 2025:</b></td><td>Our work on <a href="https://arxiv.org/pdf/2410.23511">DyPlan</a> got accepted at NAACL Findings 2025</td></tr>
 <tr><td><b>Nov 2024:</b></td><td>Presented our works <a href="https://aclanthology.org/2024.emnlp-main.720.pdf">SPEED++</a> and <a href="https://aclanthology.org/2024.emnlp-main.76.pdf">QUDSelect</a> at EMNLP 2024</td></tr>
+<tr><td><b>Nov 2024:</b></td><td>Inaugrated the new <a href="https://uclanlp.github.io/nlp-seminar/">UCLA NLP Seminar Series</a> with Yufei, Ashima, and Salman</td></tr>
 <tr><td><b>Oct 2024:</b></td><td>Arxived my Meta internship work on Dynamic Strategy Planning for Efficient Question Answering with Large Language Models [<a href="https://arxiv.org/pdf/2410.23511">paper</a>]</td></tr>
 <tr><td><b>Oct 2024:</b></td><td>Featured in <a href="https://www.cs.ucla.edu/ucla-ph-d-tanmay-parekh-awarded-the-bloomberg-data-science-fellowship/">UCLA News</a> for the Bloomberg Data Science Ph.D. Fellowship.</td></tr>
 <tr><td><b>Oct 2024:</b></td><td>Awarded the <a href="https://www.bloomberg.com/company/values/tech-at-bloomberg/data-science/academic-engagement-programs/data-science-ph-d-fellowship/">Bloomberg Data Science Ph.D. Fellowship</a> for the academic year 2025-2026</td></tr>
