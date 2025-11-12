@@ -6,18 +6,18 @@ permalink: /publications/
 
 * **DiCoRe: Enhancing Zero-shot Event Detection via Divergent-Convergent LLM Reasoning**\\
 	Tanmay Parekh, Kartik Mehta, Ninareh Mehrabi, Kai-Wei Chang, Nanyun Peng \\
-	under review at ACL ARR May 2025 \\
-	\[[paper](https://arxiv.org/pdf/2506.05128)\]
+	Accepted at EMNLP 2025 (Main) \\
+	\[[paper](https://aclanthology.org/2025.emnlp-main.1038.pdf)\] \[[code](https://github.com/PlusLabNLP/dicore)\]
 
 * **SNaRe: Domain-aware Data Generation for Low-Resource Event Detection**\\
 	Tanmay Parekh, Yuxuan Dong,  Lucas Bandarkar, Artin Kim, I-Hung Hsu, Kai-Wei Chang, Nanyun Peng \\
-	under review at ACL ARR May 2025 \\
-	\[[paper](https://arxiv.org/pdf/2502.17394v2)\]
+	Accepted at EMNLP 2025 (Main) \\
+	\[[paper](https://aclanthology.org/2025.emnlp-main.1039.pdf)\] \[[code](https://github.com/PlusLabNLP/SNaRe)\]
 
 * **Dynamic Strategy Planning for Efficient Question Answering with Large Language Models**\\
 	Tanmay Parekh, Pradyot Prakash, Alexander Radovic, Akshay Shekher, Denis Savenkov \\
 	Accepted at NAACL Findings 2025 \\
-	\[[paper](https://arxiv.org/pdf/2410.23511)\] \[[code](https://github.com/facebookresearch/dyplan)\]
+	\[[paper](https://aclanthology.org/2025.findings-naacl.336.pdf)\] \[[code](https://github.com/facebookresearch/dyplan)\]
 
 * **SPEED++: A Multilingual Event Extraction Framework for Epidemic Prediction and Preparedness**\\
 	Tanmay Parekh, Jeffrey Kwan, Jiarui Yu, Sparsh Johri, Hyosang Ahn, Sreya Muppalla, Kai-Wei Chang, Wei Wang, Nanyun Peng \\
