@@ -24,6 +24,7 @@ In Summer 2025, I interned at [Bloomberg AI](https://www.bloomberg.com/professio
 <col width="100px">
 <col width="650px">
 
+<tr><td><b>Nov 2025:</b></td><td>Awarded as an <a href="https://aclanthology.org/2025.findings-emnlp.0.pdf">Outstanding Reviewer</a> for EMNLP 2025</td></tr>
 <tr><td><b>Nov 2025:</b></td><td>Presented our work <a href="https://aclanthology.org/2025.emnlp-main.1038.pdf">DiCoRe</a> and <a href="https://aclanthology.org/2025.emnlp-main.1039.pdf">SNaRe</a> for improving low-resource Event Detection at EMNLP 2025</td></tr>
 <tr><td><b>Oct 2025:</b></td><td>Completed my internship in the Code Generation team at <a href="https://www.bloomberg.com/professional/solutions/ai/">Bloomberg AI</a></td></tr>
 <tr><td><b>Sep 2025:</b></td><td>Our works on <a href="https://arxiv.org/pdf/2506.05128">DiCoRe</a> and <a href="https://arxiv.org/pdf/2502.17394v2">SNaRe</a> got accepted at EMNLP 2025</td></tr>
