@@ -6,7 +6,7 @@ layout: default
 ---
 ![abc](vertical-ucla-pic.jpeg){:style="float: left;margin-right: 15px;margin-top: 7px; margin-left: 7px;height: 200px;border: 5"}
 
-Hey there! I am a final year PhD student in Computer Science at the [University of California, Los Angeles](https://samueli.ucla.edu/) working on **Natural Language Processing**. I am being adviced by [Prof. Nanyun Peng](https://vnpeng.net/) and [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). I've been awarded the [Bloomberg Data Science Ph.D. Fellowship](https://www.bloomberg.com/company/values/tech-at-bloomberg/data-science/academic-engagement-programs/data-science-ph-d-fellowship/), [Amazon Science Hub Fellowship](https://www.sciencehub.ucla.edu/2024-amazon-fellows/), UCLA Computer Science Fellowship, and **NAACL 2024 Best Paper Nomination**. I am on the **job market looking for active roles as Research Scientist and Applied Scientist**.
+I recently graduated as a PhD student in Computer Science from the [University of California, Los Angeles](https://samueli.ucla.edu/) working on **Natural Language Processing**. I was adviced by [Prof. Nanyun Peng](https://vnpeng.net/) and [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). I've been awarded the [Bloomberg Data Science Ph.D. Fellowship](https://www.bloomberg.com/company/values/tech-at-bloomberg/data-science/academic-engagement-programs/data-science-ph-d-fellowship/), [Amazon Science Hub Fellowship](https://www.sciencehub.ucla.edu/2024-amazon-fellows/), UCLA Computer Science Fellowship, and **NAACL 2024 Best Paper Nomination**. Currently, I am a Member of Technical Staff at Microsoft AI.
 
 My research focuses on improving the **planning and reasoning capabilities** of Large Language Models (LLMs), with focus on **long-context understanding and efficiency**. These include, but not limited to (1) parallel exploration for efficient search for planning, (2) personalizing LLM generations through target signals, (3) using fine-tuning and preference-tuning to drive LLM efficiency, and (4) unconstraining LLM and context compression to improve long-context reasoning. I've applied these methods and frameworks in my works across a wide range of tasks spanning Information Extraction (IE), Question Answering (QA) and Code Generation; in a diverse set of domains like biomedical, social media, news, code; and multilingually spanning 40+ languages.
 
@@ -24,6 +24,9 @@ In Summer 2025, I interned at [Bloomberg AI](https://www.bloomberg.com/professio
 <col width="100px">
 <col width="650px">
 
+<tr><td><b>Jun 2026:</b></td><td>Started working as a Member of Technical Staff at Microsoft AI</td></tr>
+<tr><td><b>Jun 2026:</b></td><td>Graduated from University of California Los Angeles with a Ph.D. in Computer Science</td></tr>
+<tr><td><b>Mar 2026:</b></td><td>Defended my thesis titled <a href="https://escholarship.org/content/qt8rk6z2r5/qt8rk6z2r5.pdf">Towards Universal Event Extraction</a></td></tr>
 <tr><td><b>Nov 2025:</b></td><td>Awarded as an <a href="https://aclanthology.org/2025.findings-emnlp.0.pdf">Outstanding Reviewer</a> for EMNLP 2025</td></tr>
 <tr><td><b>Nov 2025:</b></td><td>Presented our work <a href="https://aclanthology.org/2025.emnlp-main.1038.pdf">DiCoRe</a> and <a href="https://aclanthology.org/2025.emnlp-main.1039.pdf">SNaRe</a> for improving low-resource Event Detection at EMNLP 2025</td></tr>
 <tr><td><b>Oct 2025:</b></td><td>Completed my internship in the Code Generation team at <a href="https://www.bloomberg.com/professional/solutions/ai/">Bloomberg AI</a></td></tr>

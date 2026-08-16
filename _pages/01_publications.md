@@ -4,6 +4,16 @@ title: Publications
 permalink: /publications/
 ---
 
+* **Towards Universal Event Extraction**\\
+	Tanmay Parekh \\
+	Ph.D. Dissertation \\
+	\[[thesis](https://escholarship.org/content/qt8rk6z2r5/qt8rk6z2r5.pdf)\]
+
+* **PExA: Parallel Exploration Agent for Complex Text-to-SQL**\\
+	Tanmay Parekh, Ella Hofmann-Coyle, Shuyi Wang, Sachith Sri Ram Kothur, Srivas Prasad, Yunmo Chen \\
+	Accepted at ACL 2026 (Main) \\
+	\[[paper](https://aclanthology.org/2026.acl-short.48.pdf)\]
+
 * **DiCoRe: Enhancing Zero-shot Event Detection via Divergent-Convergent LLM Reasoning**\\
 	Tanmay Parekh, Kartik Mehta, Ninareh Mehrabi, Kai-Wei Chang, Nanyun Peng \\
 	Accepted at EMNLP 2025 (Main) \\
